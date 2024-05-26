@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [soufianeessarhir] 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative and efficient solutions. Here you'll find a collection of my projects, contributions, and ideas.
 
@@ -21,11 +21,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post](URL)
-- [Title of Blog Post](URL)
-- [Title of Blog Post](URL)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
 
@@ -38,28 +33,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📫 How to reach me
 
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [Email](soufianeessarhir@gmail.com)
+- [LinkedIn](in/soufiane-essarhir)
+- [Twitter](@SoufianeEssarh1)
 
 ## 💼 Open to Work
 
 I am open to exciting job opportunities where I can contribute, learn, and grow. If you have a good opportunity that matches my skills and experience, feel free to contact me.
 
-## 🎨 My Projects
 
-### Project Name
-
-![Project Name](URL-to-project-image)
-
-Description of the project, what technologies were used, what problems it solves, and any other relevant information.
-
-### Another Project Name
-
-![Another Project Name](URL-to-project-image)
-
-Description of the project, what technologies were used, what problems it solves, and any other relevant information.
 
 ## 🤝 Contributing
 
@@ -71,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [soufianeessarhir]()
