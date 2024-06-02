@@ -1,4 +1,9 @@
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42&dark=true&login=sessarhi)](https://github.com/mohouyizme/1337-readme)
+</div>
+<div align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sessarhi" alt="sessarhi's 42 stats" /></a>
+</div>
+<div align="center">
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100078894685087) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sfynlsgyr3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soufiane-essarhir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SoufianeEssarh1) 
