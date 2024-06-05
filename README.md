@@ -30,16 +30,4 @@
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=soufianeessarhir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=soufianeessarhir&label=Profile%20Views&pretty=true" />
-</a>
-
-<br>
-<div align="center">
-  <img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e471wsnbosa8ud8iogb01we8wvg6erp18cdu21purhi&rid=giphy.gif&ct=g" height="400" width="550" frameborder="0" scrolling="no" >
-  <br> <br>
-</div>
