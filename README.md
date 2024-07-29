@@ -1,6 +1,6 @@
 </div>
 <div align="center">
-[![sessarhi's 42 stats](https://badge.mediaplus.ma/Binary/sessarhi)](https://github.com/oakoudad/badge42)
+https://badge.mediaplus.ma/Binary/sessarhi)](https://github.com/oakoudad/badge42)](https://badge.mediaplus.ma/Binary/sessarhi)](https://github.com/oakoudad/badge42
 </div>
 <div align="center">
 <br>
