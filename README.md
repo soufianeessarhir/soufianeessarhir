@@ -1,6 +1,6 @@
 </div>
 <div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sessarhi" alt="sessarhi's 42 stats" /></a>
+[![sessarhi's 42 stats](https://badge.mediaplus.ma/Binary/sessarhi)](https://github.com/oakoudad/badge42)
 </div>
 <div align="center">
 <br>
