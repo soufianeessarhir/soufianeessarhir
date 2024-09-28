@@ -1,6 +1,6 @@
 </div>
 <div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sessarhi" alt="sessarhi's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/sessarhi" alt="sessarhi's 42 stats" /></a>
 </div>
 <div align="center">
 <br>
