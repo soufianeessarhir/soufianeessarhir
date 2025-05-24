@@ -1,7 +1,7 @@
 <div align="center">
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Soufiane%20Essarhir&fontSize=50&animation=fadeIn&fontAlign=center)
-
+<div align="right">
 [![42 Profile](https://badge.mediaplus.ma/binary/sessarhi)](https://github.com/oakoudad/badge42)
 
 ### ✨ Passionate Developer | Code Artisan | Tech Enthusiast ✨
