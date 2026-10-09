@@ -1,153 +1,94 @@
 <div align="center">
 
-# SOUFIANE ESSARHIR
-
-### Full-stack developer · Backend engineer · n8n automation builder
-
-I design dependable systems, useful automations, and clean interfaces — from the protocol layer to the product surface.
+<img src="assets/header.svg" alt="Soufiane Essarhir. Full-stack developer, backend engineer, n8n automation builder." width="100%" />
 
 <br />
 
-<a href="mailto:soufianeessarhir@gmail.com"><strong>Hire me</strong></a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/soufianeessarhir">LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://github.com/soufianeessarhir">GitHub</a> &nbsp;·&nbsp;
-<a href="https://x.com/SoufianeEssarh1">X</a>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/AVAILABLE_FOR-REMOTE_%26_FREELANCE_WORK-111827?style=for-the-badge&labelColor=0f172a&color=22c55e" alt="Available for remote and freelance work" />
+<a href="mailto:soufianeessarhir@gmail.com"><img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/soufianeessarhir"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/soufianeessarhir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://x.com/SoufianeEssarh1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
-<br />
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
-<table>
-<tr>
-<td width="62%" valign="top">
+## About
 
-## The short version
+I'm a software engineering student at [1337 (42 Network)](https://1337.ma) in Khouribga, Morocco, graduating in 2026. My background is systems programming: I've written an HTTP server and a shell from scratch in C and C++. On top of that I build full-stack products in TypeScript and automate business processes with n8n.
 
-I am a Computer Science student at **1337 — 42 Network** in Khouribga, Morocco. I build backend-heavy products with a strong systems foundation, and I am now looking for **remote or freelance opportunities** in:
+I'm taking on remote and freelance work in two areas:
 
-- **Full-stack development** — APIs, real-time features, databases, and polished product interfaces.
-- **n8n automation** — connecting tools, removing repetitive work, and turning business processes into maintainable workflows.
+| Full-stack development | n8n automation |
+| --- | --- |
+| REST APIs, real-time features with WebSockets, authentication, PostgreSQL schemas, and the interface on top. | Connecting tools through webhooks and APIs, removing manual steps, and building workflows that are easy to hand over and maintain. |
 
-My approach is practical: understand the system, keep the architecture clear, and ship something that is reliable in the real world.
-
-</td>
-<td width="38%" valign="top">
-
-## Working style
-
-```text
-BUILD       from first principles
-AUTOMATE    repetitive operations
-DESIGN      clear, maintainable systems
-SHIP        with care and ownership
-```
-
-<br />
-
-**Based in** Morocco  
-**Working with** Remote teams · Freelance clients  
-**Languages** Arabic · English · French
-
-</td>
-</tr>
-</table>
-
----
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## Selected work
 
-> A deliberately focused selection, ordered by product impact and engineering depth.
+### [Hirefy](https://github.com/ibrahimesseddyq/ft_transcendance)
+A team-built recruitment platform with real-time notifications, OAuth2 sign-in, and role-based application flows, split into multiple services.
 
-### 01 · [`Hirefy`](https://github.com/ibrahimesseddyq/ft_transcendance)
-**Real-time recruitment platform**
+![WebSockets](https://img.shields.io/badge/WebSockets-1f2937?style=flat-square) ![OAuth2](https://img.shields.io/badge/OAuth2-1f2937?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-1f2937?style=flat-square)
 
-A multi-service platform for modern recruitment workflows. Built around WebSocket communication, OAuth2 authentication, role-based application flows, and real-time notifications.
+### [inception](https://github.com/soufianeessarhir/inception)
+A containerized web stack on Alpine Linux: NGINX with TLS in front, MariaDB on a persistent volume, services on isolated Docker networks, all defined in Docker Compose.
 
-`Real-time systems` &nbsp; `OAuth2` &nbsp; `WebSockets` &nbsp; `Service architecture`
+![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=2496ed) ![NGINX](https://img.shields.io/badge/NGINX-1f2937?style=flat-square&logo=nginx&logoColor=009639) ![MariaDB](https://img.shields.io/badge/MariaDB-1f2937?style=flat-square&logo=mariadb&logoColor=c0765a) ![TLS](https://img.shields.io/badge/TLS-1f2937?style=flat-square)
 
-### 02 · [`inception`](https://github.com/soufianeessarhir/inception)
-**A production-shaped infrastructure stack**
+### [httpserver](https://github.com/soufianeessarhir/httpserver)
+An HTTP/1.1 server in C++98 with non-blocking I/O (`epoll` / `kqueue`), request parsing, CGI, and virtual hosts. Handled 1,000+ concurrent connections in Siege benchmarks.
 
-A containerized Alpine Linux environment with Docker Compose, an NGINX reverse proxy, TLS, persistent MariaDB volumes, isolated networks, and explicit service configuration.
+![C++98](https://img.shields.io/badge/C++98-1f2937?style=flat-square&logo=cplusplus&logoColor=00599c) ![Sockets](https://img.shields.io/badge/Sockets-1f2937?style=flat-square) ![CGI](https://img.shields.io/badge/CGI-1f2937?style=flat-square)
 
-`Docker` &nbsp; `NGINX` &nbsp; `MariaDB` &nbsp; `Linux` &nbsp; `TLS`
+### [minishell](https://github.com/soufianeessarhir/minishell)
+A Bash-like shell in C with pipes, redirections, variable expansion, signal handling, and built-in commands.
 
-### 03 · [`httpserver`](https://github.com/soufianeessarhir/httpserver)
-**An HTTP/1.1 server written from scratch in C++98**
+![C](https://img.shields.io/badge/C-1f2937?style=flat-square&logo=c&logoColor=a8b9cc) ![POSIX](https://img.shields.io/badge/POSIX-1f2937?style=flat-square) ![Signals](https://img.shields.io/badge/Signals-1f2937?style=flat-square)
 
-Non-blocking I/O with `epoll` / `kqueue`, HTTP parsing, CGI execution, virtual hosting, and connection management. Benchmarked at **1,000+ concurrent connections under Siege**.
+### [XAD](https://github.com/auto-differentiation/xad)
+Contributor at the XAD Hackathon 2024 (UM6P, Benguerir), working on an automatic differentiation library for C++.
 
-`C++98` &nbsp; `Sockets` &nbsp; `HTTP/1.1` &nbsp; `CGI` &nbsp; `Concurrency`
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
-### 04 · [`minishell`](https://github.com/soufianeessarhir/minishell)
-**A POSIX-style shell built to understand process control**
-
-Pipelines, redirections, environment expansion, signals, built-ins, and child-process lifecycles — implemented without hiding the hard parts behind abstractions.
-
-`C` &nbsp; `POSIX` &nbsp; `Processes` &nbsp; `Signals` &nbsp; `IPC`
-
-### 05 · [`xad`](https://github.com/auto-differentiation/xad)
-**Contributor · XAD Hackathon 2024 · UM6P Benguerir**
-
-Contributed to an automatic-differentiation library for C++.
-
----
-
-## What I work with
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**FULL-STACK & BACKEND**
-
-`TypeScript` `JavaScript` `Node.js` `Express` `NestJS` `FastAPI` `REST` `WebSockets` `OAuth2`
-
-**SYSTEMS**
-
-`C` `C++` `POSIX` `Unix/Linux` `Sockets` `IPC` `Threads` `epoll` `kqueue`
-
-</td>
-<td width="50%" valign="top">
-
-**AUTOMATION & DELIVERY**
-
-`n8n` `Webhooks` `Docker` `Docker Compose` `NGINX` `CI/CD` `Bash`
-
-**DATA & TOOLING**
-
-`PostgreSQL` `MariaDB` `Prisma` `Git` `GitHub` `CMake` `Makefiles`
-
-</td>
-</tr>
-</table>
-
----
-
-## A little more context
-
-- **1337 — 42 Network, Khouribga** · Software Engineering · 2023–2026
-- Frontend Masters — JavaScript, Node.js, and server fundamentals
-- n8n — Essentials, Integrations, and In Practice tracks
-- Arabic (native) · English (B2) · French (B1)
+## Stack
 
 <div align="center">
 
-<br />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,py,fastapi,postgres,mariadb,prisma,docker,nginx,linux,bash,c,cpp,git,github,cmake&perline=10" alt="Technology icons" />
 
-### Have a system to build or a process to automate?
+</div>
 
-<a href="mailto:soufianeessarhir@gmail.com"><strong>Let’s discuss the work →</strong></a>
+| | |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, C, C++, Python, Bash |
+| **Backend** | Node.js, Express, NestJS, FastAPI, REST, WebSockets, OAuth2 |
+| **Automation** | n8n, webhooks, API integrations |
+| **Data** | PostgreSQL, MariaDB, Prisma |
+| **Infrastructure** | Docker, Docker Compose, NGINX, CI/CD, Linux |
+| **Systems** | POSIX, sockets, IPC, threads, epoll, kqueue |
+| **Tooling** | Git, GitHub, CMake, Make |
 
-<br /><br />
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
+## Education and languages
 
-<br /><br />
+- **1337 (42 Network), Khouribga**: Software Engineering, 2023–2026
+- **Frontend Masters**: JavaScript, Node.js, and server fundamentals
+- **n8n**: Essentials, Integrations, and In Practice courses
+- **Languages**: Arabic (native), English (B2), French (B1)
 
-<sub>Morocco · Remote-ready · Open to full-stack and n8n automation work</sub>
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
+
+<div align="center">
+
+## Work with me
+
+Have a product to build or a process to automate?
+
+<a href="mailto:soufianeessarhir@gmail.com"><img src="https://img.shields.io/badge/soufianeessarhir%40gmail.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="soufianeessarhir@gmail.com" /></a>
+
+<sub>Morocco · Remote · Freelance</sub>
 
 </div>
