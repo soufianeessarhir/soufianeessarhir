@@ -28,7 +28,7 @@ I'm taking on remote and freelance work in two areas:
 ## Selected work
 
 ### MKSHORE
-Real-estate platform (Next.js 16 + React 19 + TypeScript + Tailwind CSS v4), Arabic / French, delivered in 2 weeks. Private repo — link omitted.
+Real-estate platform (Next.js 16 + React 19 + TypeScript + Tailwind CSS v4), Arabic / French, Private repo — link omitted.
 
 ![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript) ![Tailwind](https://img.shields.io/badge/Tailwind-1f2937?style=flat-square&logo=tailwindcss)
 
